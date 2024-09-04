@@ -27,4 +27,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 </div>
+<br/>
 
+## ⏰ 프로젝트 기간
+2024.07.11 ~ 2024.08.04
