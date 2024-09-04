@@ -5,14 +5,15 @@
 
 ## 🖥️ 프로젝트 소개
 `어휘릭`은 현대인의 지적 건강을 위한 어휘력 증진 서비스입니다.
-![image](https://github.com/user-attachments/assets/5e1ce04f-9e01-4b3a-95e3-633517add1fb)
-![image](https://github.com/user-attachments/assets/ced8e0a5-3d1e-486e-bec0-ca3c9527f801)
-![image](https://github.com/user-attachments/assets/c0983114-0284-458b-971c-62a2cf30c135)
-![image](https://github.com/user-attachments/assets/f0b82e96-b725-4fd0-b7d6-e2c98aba333a)
-![image](https://github.com/user-attachments/assets/74a44423-9cc0-499f-991b-cfcea4abc066)
-![image](https://github.com/user-attachments/assets/00019f28-0cf9-4601-a33a-6c1a71947284)
-![image](https://github.com/user-attachments/assets/0abd5182-2c73-475e-b730-246a57825ad6)
-<br/>
+<br/><br/>
+  ![image](https://github.com/user-attachments/assets/5e1ce04f-9e01-4b3a-95e3-633517add1fb)
+  ![image](https://github.com/user-attachments/assets/ced8e0a5-3d1e-486e-bec0-ca3c9527f801)
+  ![image](https://github.com/user-attachments/assets/c0983114-0284-458b-971c-62a2cf30c135)
+  ![image](https://github.com/user-attachments/assets/f0b82e96-b725-4fd0-b7d6-e2c98aba333a)
+  ![image](https://github.com/user-attachments/assets/74a44423-9cc0-499f-991b-cfcea4abc066)
+  ![image](https://github.com/user-attachments/assets/00019f28-0cf9-4601-a33a-6c1a71947284)
+  ![image](https://github.com/user-attachments/assets/0abd5182-2c73-475e-b730-246a57825ad6)
+<br/><br/>
 
 ## 📌 주요 기능
 - [x] 어휘 한조각
